@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Hibernate_5.11.4.Final"/>
+	<classpathentry kind="lib" path="C:/Users/Rodrigo/Documents/Programas-DEV/hibernate-search-5.11.4.Final/arjuna-5.9.8.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rodrigo/Documents/Programas-DEV/hibernate-search-5.11.4.Final/common-5.9.8.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rodrigo/Documents/Programas-DEV/hibernate-search-5.11.4.Final/jta-5.9.8.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rodrigo/Documents/Programas-DEV/hibernate-search-5.11.4.Final/dist/hibernate-search-engine-5.11.4.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rodrigo/Documents/Programas-DEV/hibernate-search-5.11.4.Final/dist/hibernate-search-orm-5.11.4.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rodrigo/Documents/Programas-DEV/hibernate-search-5.11.4.Final/dist/lib/provided/cdi-api-2.0.SP1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rodrigo/Documents/Programas-DEV/hibernate-search-5.11.4.Final/dist/lib/provided/javax.batch-api-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rodrigo/Documents/Programas-DEV/hibernate-search-5.11.4.Final/dist/lib/provided/javax.inject-1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rodrigo/Documents/Programas-DEV/hibernate-search-5.11.4.Final/dist/lib/provided/javax.persistence-api-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rodrigo/Documents/Programas-DEV/hibernate-search-5.11.4.Final/dist/lib/provided/jboss-annotations-api_1.3_spec-1.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rodrigo/Documents/Programas-DEV/hibernate-search-5.11.4.Final/dist/lib/provided/jboss-jms-api_2.0_spec-1.0.2.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rodrigo/Documents/Programas-DEV/hibernate-search-5.11.4.Final/dist/lib/provided/jboss-transaction-api_1.2_spec-1.1.1.Final.jar"/>
+	<classpathentry kind="con" path="org.eclipse.datatools.connectivity.jdt.DRIVERLIBRARY/MySQL JDBC Driver"/>
+	<classpathentry kind="lib" path="C:/Users/Rodrigo/Documents/Programas-DEV/mysql-connector-java-8.0.18/mysql-connector-java-8.0.18.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
